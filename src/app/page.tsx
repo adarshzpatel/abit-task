@@ -41,7 +41,7 @@ const Home = () => {
 
         {/* Releases */}
 
-        <div className="mt-16 px-16">
+        <div className="mt-32 px-16">
           <div className="flex items-center">
             <div className="flex-1">
               <h1 className="font-bold text-3xl mb-4">Releases</h1>
